@@ -2,7 +2,8 @@
 SQL DATA TRANSFORMATION AND CLEANING PORTFOLIO PROJECT
 
 REFERENCE 
-For the purpose of this SQL Data Transformation and Cleaning Project, We will be extracting tables from AdventureWorks Database 2019 [AdventureWorksDW2019] based on the below assumed email request from the client. 
+For the purpose of this SQL Data Transformation and Cleaning Project, We will be extracting tables from AdventureWorks Database 2019 [AdventureWorksDW2019] based on 
+the below assumed email request from the client. 
 The Dimension-Dim and Fact Tables to be used are; Date Table -[dbo].[DimDate], Customer Table -[dbo].[DimCustomer], Geography Table - [dbo].[DimGeography], 
 Product Table - [dbo].[DimProduct], Product Category Table - [dbo].[DimProductCategory], Product Sub-Category Table - [dbo].[DimProductSubcategory] and lastly the
 Fact table i.e. Internet Sales Table - [dbo].[FactInternetSales].
