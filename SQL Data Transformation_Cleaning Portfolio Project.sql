@@ -72,7 +72,7 @@ SELECT
       DimProd.[ProductKey], 
       DimProd.[ProductAlternateKey] AS ProductItemCode, 
       DimProd.[EnglishProductName] AS [Product Name], 
-	    DimProSub.EnglishProductSubcategoryName AS [Sub Category], -- Joined in from Product Sub-Category Table
+      DimProSub.EnglishProductSubcategoryName AS [Sub Category], -- Joined in from Product Sub-Category Table
       DimProCat.EnglishProductCategoryName AS [Product Category], -- Joined in from Product Category Table
       DimProd.[Color] AS [Product Color], 
       DimProd.[Size] AS [Product Size], 
